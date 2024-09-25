@@ -1,8 +1,12 @@
 # jetson_dli
 이우너웅
- 1. Jetson Nano Setting 준비물
+
+<b> 1. Jetson Nano Setting 준비물
   
         - jetson nano 4gb
+
+        
+
   
         - c type power adapter
   
@@ -13,3 +17,8 @@
         - 64기가 이상 마이크로sd카드
   
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
+
+<b> jetson image
+![image](https://github.com/user-attachments/assets/a1076ad9-c3e2-43fb-9d1b-fa2b81074412)
+![화면 캡처 2024-09-25 161307](https://github.com/user-attachments/assets/6579c53d-037c-4b05-810b-fe5bfa51ff8e)
+
